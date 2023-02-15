@@ -7,7 +7,8 @@
 - 👯 trabajo bien en equipo 
 - 💬 soy una persona intrivertida
 - 😄 Pronombres: ella
-#HORARIO 
+#HORARIO
+
 |                | LUNES                            | MARTES                | MIÉRCOLES                                        | JUEVES                   | VIERNES                |
 |----------------|----------------------------------|-----------------------|--------------------------------------------------|--------------------------|------------------------|
 | 11:05 - 11:45  | MANTENIMIENTO Y REDES DE COMPUTO |                       | MANTENIMIENTO Y REDES DE COMPUTO                 |                          |                        |
