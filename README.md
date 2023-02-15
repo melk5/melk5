@@ -17,6 +17,6 @@
 | 13:50 - 14:40  | BIOLOGÍA II                      | BIOLOGÍA II           | BIOLOGÍA II                                      | BIOLOGÍA II              | LITERATURA II          |
 | 14:45 - 15:35  | FÍSICA II                        | INGLÉS IV             | ACTIVIDADES FÍSICAS DEPORTIVAS Y RECREATIVAS  IV | HISTORIA DE MÉXICO II    | MATEMÁTICAS IV         |
 | 15:40 - 16:30  | INGLÉS IV                        | HISTORIA DE MÉXICO II | MATEMÁTICAS IV                                   | MATEMÁTICAS IV           | INGLÉS IV              |
-| 16:30 - 17:00  | RECESO                           |                       |                                                  |                          |                        |
+| 16:30 - 17:00  | RECESO                           | RECESO                | RECESO                                           | RECESO                   | RECESO                 |
 | 17:00 - 17:50  | MATEMÁTICAS                      | FÍSICA II             | FÍSICA II                                        | FÍSICA II                | FÍSICA II              |
 |  17:55 - 18:45 |                                  | MATEMÁTICAS IV        |                                                  | ORIENTACIÓN EDUCATIVA IV |                        |
