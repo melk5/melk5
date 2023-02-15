@@ -7,7 +7,7 @@
 - 👯 trabajo bien en equipo 
 - 💬 soy una persona intrivertida
 - 😄 Pronombres: ella
-- 
+
 #HORARIO
 
 |                | LUNES                            | MARTES                | MIÉRCOLES                                        | JUEVES                   | VIERNES                |
